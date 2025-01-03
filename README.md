@@ -5,18 +5,18 @@ O cronograma a seguir não é um cronograma fixo, mas uma sugestão de como voc�
 Eu o ajustarei durante minha jornada de estudos a medida que for necessário.
 
 **Semana 1: Fundamentos do JavaScript**
-- **Quarta-feira, 1 de Janeiro:** 
+- **~~Quarta-feira, 1 de Janeiro:~~** 
   - Introdução ao JavaScript
     - O que é JavaScript?
     - História do JavaScript
     - Versões do JavaScript
     - Como executar JavaScript
-- **Quinta-feira, 2 de Janeiro:** 
+- **~~Quinta-feira, 2 de Janeiro:~~** 
   - Tudo sobre Variáveis
     - Declaração de Variáveis
     - Regras de Nomeação de Variáveis
     - Hoisting
-- **Sexta-feira, 3 de Janeiro:** 
+- **~~Sexta-feira, 3 de Janeiro:~~** 
   - Tudo sobre Variáveis (continuação)
     - Escopos de Variáveis (global, bloco, função)
     - `var`, `let`, e `const`
